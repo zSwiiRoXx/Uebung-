@@ -6,6 +6,10 @@
 
 using namespace std;
 
+int addition(int a, int b) {
+    return a + b;
+}
+
 int a= 67;
 
 int main() { //Ich hasse fußball

@@ -6,11 +6,9 @@ using namespace std;
 
 
 
-int main() {
-cout<<"hello world"<<endl;
-
-
-
+int main() { //Ich hasse fußball
+cout<<"hello julian"<<endl;
+    //begrüßung
 
 
     return 0;

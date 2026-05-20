@@ -14,7 +14,7 @@ cout<<"hello julian"<<endl;
 
     //hallo, dies ist irgendein dummer Kommentar
 //hahahah boom
-    printf("Kimi hat diese zeile geändert");
+    printf("Kimi hat diese zeile geändert\n");
     string name = "Julian";
     cout << "Hello, here is " << name << "!" << endl;
     return 0;

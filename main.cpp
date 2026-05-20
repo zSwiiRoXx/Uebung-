@@ -11,7 +11,7 @@ int a= 67;
 int main() { //Ich hasse fußball
 cout<<"hello julian"<<endl;
     //begrüßung
-
+//bug fix
     //hallo, dies ist irgendein dummer Kommentar
 //hahahah boom
     printf("Kimi hat diese zeile geändert");

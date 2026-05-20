@@ -6,7 +6,7 @@
 
 using namespace std;
 
-
+int a= 67;
 
 int main() { //Ich hasse fußball
 cout<<"hello julian"<<endl;
